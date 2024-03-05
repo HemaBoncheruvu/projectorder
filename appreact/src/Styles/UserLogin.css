@@ -1,0 +1,17 @@
+.Userlogin{
+    justify-content: center;
+}
+.forms {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkgoldenrod;
+   color: blue;
+   padding-top: 20px;
+   padding-bottom: 400px;
+   padding-left: 500px;
+}
+.forms label{
+    padding-top: 100px;
+}

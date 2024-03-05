@@ -1,0 +1,11 @@
+.user input{
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+margin: 20px;
+border-color: coral;
+}
+.user button{
+    background-color: hotpink;
+    border-radius: 5px;
+}

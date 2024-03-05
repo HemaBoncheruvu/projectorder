@@ -1,0 +1,32 @@
+.Navbar1{
+    justify-content: center;
+   width: 70vw;
+   
+   padding-left: 160px;
+   transition: 100px;
+   background-color:antiquewhite aquamarine;
+  
+  
+}
+.Navbar1 form{
+   
+    
+    justify-content: center;
+}
+.Navbar1 input{
+    padding: 5px 10px;
+
+
+}
+.Navbar1 button{
+    padding: 5px 10px;
+    font-size: 20px;                                       
+    border: none;
+    border-radius: 10px;
+    background-color: aquamarine;
+    background: linear-gradient(120deg,#ff8800de);
+}
+.Navbar1 ::placeholder{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

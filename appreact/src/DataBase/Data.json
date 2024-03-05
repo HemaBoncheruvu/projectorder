@@ -1,0 +1,235 @@
+{
+  "Manager": [
+    {
+      "id": "b48f",
+      "name": "Hema",
+      "password": "8dsuh",
+      "phoneNum": "8184951210",
+      "profile": "erret"
+    },
+    {
+      "id": "7229",
+      "name": "Hema",
+      "password": "hema@123",
+      "phoneNum": "8919592599",
+      "profile": "http://www.wallpapers13.com/wp-content/uploads/2015/12/Nature-Lake-Bled.-Desktop-background-image.jpg"
+    },
+    {
+      "id": "2d35",
+      "name": "baby",
+      "password": "baby@!23",
+      "phoneNum": "9873456789",
+      "profile": "https://tse4.mm.bing.net/th?id=OIP.jixXH_Els1MXBRmKFdMQPAHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "f15a",
+      "name": "kalyan",
+      "password": "kalyan@15",
+      "phoneNum": "9182463688",
+      "profile": "https://tse4.mm.bing.net/th?id=OIP.jixXH_Els1MXBRmKFdMQPAHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "459e",
+      "name": "chand",
+      "email": "chand123@gmail.com",
+      "password": "chand@123",
+      "phoneNum": "6302700408",
+      "profile": "https://tse1.mm.bing.net/th?id=OIP.bVOoHIsNUNZYRRVE2Q0mcgHaFj&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "2b24",
+      "name": "Hemaroyal",
+      "email": "hemaboncheruvu13@gmail.com",
+      "password": "Bhea@13",
+      "phoneNum": "08919592599",
+      "profile": "dsfghytre"
+    }
+  ],
+  "Products": [
+    {
+      "id": "bea5",
+      "Category": "PApaya",
+      "restaurentname": "Spicy",
+      "name": "Fruit Slad",
+      "price": "190",
+      "Rating": "4.5",
+      "Quantity": "2",
+      "Description": "I prefer this because i feel it is very good for health and it was so delicious.",
+      "thumbnailUl": "https://theviewfromgreatisland.com/wp-content/uploads/2019/04/fruit-salad-with-creamy-coconut-poppy-seed-dressing-8503620-April-01-2019-2.jpg"
+    },
+    {
+      "id": "eac7",
+      "Category": "Butter",
+      "restaurentname": "dgfhj",
+      "name": "Roti",
+      "price": "123",
+      "Rating": "2",
+      "Quantity": "2",
+      "Description": "hgewerrtrhy6543ws",
+      "thumbnailUl": "https://tse1.mm.bing.net/th?id=OIP.UKMLKzPzGeRf3FjBfTEphAHaE3&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "2f9a",
+      "Category": "Tiffins",
+      "restaurentname": "Pure veg",
+      "name": "Ghee Dosa",
+      "price": "25",
+      "Rating": "5",
+      "Quantity": "2",
+      "Description": "I supriced by eating this i felt so happy After eating this .",
+      "thumbnailUl": "https://images.slurrp.com/prod/recipe_images/transcribe/breakfast/Ghee-Roast-Dosa.webp"
+    },
+    {
+      "id": "0f03",
+      "Category": "Biriyani",
+      "restaurentname": "Alfa",
+      "name": "Hyderabad biriyani",
+      "price": "300",
+      "Rating": "3",
+      "Quantity": "2",
+      "Description": "Yeah its good taste But they gave less Quantity",
+      "thumbnailUl": "https://www.thedeliciouscrescent.com/wp-content/uploads/2019/04/Chicken-Biryani-Square.jpg"
+    },
+    {
+      "id": "2e6b",
+      "Category": "Veg Food",
+      "restaurentname": "Thindi",
+      "name": "Fried rice",
+      "price": "250",
+      "Rating": "3.5",
+      "Quantity": "2",
+      "Description": "Cost is more than Quanity.",
+      "thumbnailUl": "http://vegecravings.com/wp-content/uploads/2016/03/veg-fried-rice-step-by-step-recipe.jpg"
+    }
+  ],
+  "Customers": [
+    {
+      "id": "ab3c",
+      "Name": "Saraswathi",
+      "Email": "Saraswathi123@gmail.com",
+      "Phonenum": "09949842423",
+      "Password": "Sarru@13"
+    },
+    {
+      "id": "d88c",
+      "Name": "Saraswathi",
+      "Email": "Saraswathi123@gmail.com",
+      "Phonenum": "09949842423",
+      "Password": "fds"
+    },
+    {
+      "id": "3992",
+      "Name": "Saraswathi",
+      "Email": "Saraswathi123@gmail.com",
+      "Phonenum": "09949842423",
+      "Password": "fds"
+    },
+    {
+      "id": "c766",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "8919592599",
+      "Password": "Hema123"
+    },
+    {
+      "id": "735d",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "h"
+    },
+    {
+      "id": "dee1",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "yt"
+    },
+    {
+      "id": "a1e1",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "dfghjk"
+    },
+    {
+      "id": "e0ae",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "jhgfcx"
+    },
+    {
+      "id": "cf27",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "g"
+    },
+    {
+      "id": "0be0",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "34tg"
+    },
+    {
+      "id": "ee03",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "u"
+    },
+    {
+      "id": "e99d",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "e3e"
+    },
+    {
+      "id": "6c4f",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "e3e"
+    },
+    {
+      "id": "6a58",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "jh"
+    },
+    {
+      "id": "495b",
+      "Name": "HEMESWARI BONCHERUVU",
+      "Email": "hemaboncheruvu13@gmail.com",
+      "Phonenum": "08919592599",
+      "Password": "e"
+    }
+  ],
+  "Payment": [
+    {
+      "id": "8ce8",
+      "name": "HEMESWARI BONCHERUVU",
+      "phonenum": "08919592599",
+      "location": "niluvurathipalli",
+      "pincode": "515134"
+    },
+    {
+      "id": "d5dc",
+      "name": "HEMESWARI BONCHERUVU",
+      "phonenum": "08919592599",
+      "location": "niluvurathipalli",
+      "pincode": "515134"
+    },
+    {
+      "id": "d383",
+      "name": "HEMESWARI BONCHERUVU",
+      "phonenum": "08919592599",
+      "location": "niluvurathipalli",
+      "pincode": ""
+    }
+  ]
+}

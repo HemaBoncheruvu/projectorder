@@ -1,0 +1,21 @@
+.adminsignup{
+   border: 8px solid black;
+  box-shadow: 50pc;
+  justify-content: center;
+   
+}
+.adminsignup h1{
+    color: blueviolet;
+}
+.forms{
+  background-color: aliceblue;
+
+    background-size:50vh ;
+    background-size: 50vw;
+    padding-bottom: 50px;
+
+
+}
+.forms input{
+   
+}

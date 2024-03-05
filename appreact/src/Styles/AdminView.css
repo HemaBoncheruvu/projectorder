@@ -1,0 +1,33 @@
+.adminviewpage{
+    /* display: flex; */
+   /* / flex-wrap: wrap; */
+   display: grid;
+   grid-template-columns: 200px 200px 200px 200px;
+   justify-content: space-between;
+   align-items: center;
+
+}
+.displayproduct{
+    height: 320px;
+    width: 300px;
+    border: 2px solid rgb(17, 17, 18);
+    margin: 20px 0px;
+}
+#Star{
+    color: green;
+
+}
+.restaurent  {
+    justify-content: center;
+    height: 30px;
+    width: 60px;
+    background-color:cadetblue;
+    border: 2px black;
+    border-radius: 3px;
+}
+#icon{
+    justify-content: end;
+    padding-left: 10px;
+  
+    
+}
